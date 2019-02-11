@@ -2,7 +2,7 @@
 name: Nokia phone bug report
 about: What bugs does your phone have?
 title: ''
-labels: Nokia 8, Pie 9.0.0
+labels: Nokia 8
 assignees: ''
 
 ---
